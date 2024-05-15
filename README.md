@@ -10,6 +10,15 @@ Sou formado em ADS 2.0 e desenvolvo projetos para meu portfólio com o uso de di
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramoncastro23923&repo=todoList&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramoncastro23923&repo=Sistema-de-Previs-o-do-Tempo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramoncastro23923&repo=secretword11&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramoncastro23923&repo=primeiraTarefaJavascript&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramoncastro23923&repo=calculoDeMedias&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramoncastro23923&repo=Phonebook-App&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramoncastro23923&repo=exercicio_gulp&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramoncastro23923&repo=exercicio_less&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramoncastro23923&repo=MedievalSaga&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramoncastro23923&repo=cloneDisneyPlus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
