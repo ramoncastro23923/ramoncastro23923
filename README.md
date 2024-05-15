@@ -9,8 +9,7 @@ Sou formado em ADS 2.0 e desenvolvo projetos para meu portfólio com o uso de di
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramoncastro23923&repo=ramoncastro23923.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramoncastro23923&repo=todoList&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
